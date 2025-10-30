@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Claudio
 
-<!--
-**ClaudioPanConQueso/ClaudioPanConQueso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **C# developer** with experience creating **Discord bots** and plugins for **SCP: Secret Laboratory** (Exiled API).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Developing and improving plugins for SCP:SL servers.
+
+---
+
+## Languages & APIs
+- **Language:** C#
+- **Frameworks / APIs:** Exiled API, .NET
+
+---
+
+## Contact
+- Discord: `claudioscp`
+
+<a href="https://github.com/ClaudioPanConQueso?tab=repositories">
+  <img height="50" src="https://i.pinimg.com/originals/99/7c/72/997c72526b1765a287c3f2a5b53c861e.gif"/>
+</a>
